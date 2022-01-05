@@ -1,0 +1,30 @@
+body
+{
+	text-align: center;
+	background-image:url("https://previews.123rf.com/images/shamilini/shamilini1810/shamilini181000585/113573635-vector-seamless-background-with-funny-cute-numbers-drawn-from-to-9-in-winter-christmas-hats-on-blue-.jpg");
+}
+
+.login_div1 , .login_div2
+	{
+		text-align: center;
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        width: 300px;
+	}
+
+#player1_name , #player2_name
+    {
+        display: inline-block;
+        margin-left: 50px;
+    }
+
+label {
+    color: crimson;
+}
+
+button {
+    background-color: skyblue;
+    height: 50px;
+}
